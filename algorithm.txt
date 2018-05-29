@@ -1,0 +1,8 @@
+Algorithm which sums all numbers from 1 to 1000000 both numbers inclusive.
+
+1. Fetch the two numbers, 'startNumber' & 'endNumber' where 'endNumber' is greater than 'startNumber'.
+3. Create variable 'sum' initialized to 0.
+3. Create a for loop from 'startNumber' to 'endNumber' including both.
+4. Add 'sum' to itself and 'startNumber' inside loop.
+5. Loop ends
+6. 'sum' contains the sum of values from 'startNumber' to 'endNumber'.
