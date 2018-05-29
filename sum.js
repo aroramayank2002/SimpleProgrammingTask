@@ -1,5 +1,5 @@
 let startNumber = 1;
-let endNumber = 5;
+let endNumber = 1000000;
 
 function sumToNumber(startNumber, endNumber){
   let sum = 0;
